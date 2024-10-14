@@ -1,0 +1,1 @@
+the code for running simulation of any body revolving around earth with any initial condition(with any velocity at any direction and from any distance from earth) has been uploaded in both python and matlab
